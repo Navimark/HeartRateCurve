@@ -204,6 +204,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = N/A;
 				TargetAttributes = {
+					5DB6EE271907A87D00ED8C8C = {
+						DevelopmentTeam = 797AZE56N6;
+					};
 					5DB6EE421907A87D00ED8C8C = {
 						TestTargetID = 5DB6EE271907A87D00ED8C8C;
 					};
@@ -373,6 +376,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 797AZE56N6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HeartRateCurve/HeartRateCurve-Prefix.pch";
 				INFOPLIST_FILE = "HeartRateCurve/HeartRateCurve-Info.plist";
@@ -386,6 +390,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				DEVELOPMENT_TEAM = 797AZE56N6;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HeartRateCurve/HeartRateCurve-Prefix.pch";
 				INFOPLIST_FILE = "HeartRateCurve/HeartRateCurve-Info.plist";
@@ -453,6 +458,7 @@
 				5DB6EE561907A87D00ED8C8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5DB6EE571907A87D00ED8C8C /* Build configuration list for PBXNativeTarget "HeartRateCurveTests" */ = {
 			isa = XCConfigurationList;
@@ -461,6 +467,7 @@
 				5DB6EE591907A87D00ED8C8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
